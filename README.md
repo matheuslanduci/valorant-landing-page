@@ -5,7 +5,7 @@ A project created with Next/React with styled-components written in TypeScript. 
 ## The official website:
 The official Valorant's website is https://playvalorant.com/
 
-## This project is live> 
+## This project is live:
 This project is live deployed by Vercel at https://valorant-landing.vercel.app
 
 
