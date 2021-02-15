@@ -81,7 +81,7 @@ const SocialsSection = (): JSX.Element => {
       </BackgroundModule>
       <ContentModule>
         <div className="content-module">
-          <span className="title">Confira nossas redes socais</span>
+          <span className="title">Confira nossas redes sociais!</span>
         </div>
         <SocialsColumn>
           <Button
